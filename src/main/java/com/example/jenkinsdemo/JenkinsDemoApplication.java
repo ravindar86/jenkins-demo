@@ -10,7 +10,7 @@ public class JenkinsDemoApplication {
 
     @PostConstruct
     public void init(){
-        System.out.println("App Started");
+        System.out.println("App Started")
     }
 
     public static void main(String[] args) {
