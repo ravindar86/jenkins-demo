@@ -14,8 +14,8 @@ public class JenkinsDemoApplication {
     }
 
     public static void main(String[] args) {
-        System.out.println("App Executed")
-        SpringApplication.run(JenkinsDemoApplication.class, args);
+        System.out.println("App Executed");
+        SpringApplication.run(JenkinsDemoApplication.class, args)
     }
 
 }
